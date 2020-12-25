@@ -1,0 +1,2 @@
+if self.isEnPassantMove:
+        
